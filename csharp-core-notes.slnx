@@ -1,4 +1,4 @@
 <Solution>
-  <Project Path="001-basico/001-001-comentarios/001-002-comentarios.csproj" Id="6f14a650-69dc-476a-99ff-577a7732cc08" />
+  <Project Path="001-basico/001-001-console.writeline/001-001-console.writeline.csproj" Id="df81f911-4258-465b-a07b-4b9da30be2ba" />
   <Project Path="csharp/csharp.csproj" />
 </Solution>
