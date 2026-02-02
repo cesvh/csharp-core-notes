@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="001-basico/001-001-console.writeline/001-001-console.writeline.csproj" Id="df81f911-4258-465b-a07b-4b9da30be2ba" />
   <Project Path="001-basico/001-002-comentarios/001-002-comentarios.csproj" Id="89f2b5c5-d366-4e76-8cad-31290baf2653" />
+  <Project Path="006-clases/001-clases/006-001-001-clases/006-001-001-clases.csproj" Id="1dafa2b5-1024-42bd-a03e-ec4aac215716" />
   <Project Path="csharp/csharp.csproj" />
 </Solution>
