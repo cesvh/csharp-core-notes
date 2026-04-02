@@ -1,8 +1,9 @@
 ﻿
-var personaObj = new Persona();
-var personaObj2 = new Persona();
-//var personaObj0 = new Persona();
-// ????? Revisar la diferencia entre usar var y el tipo de dato explícito
+//var personaObj = new Persona("ObjetoPersonaNombre1", "ObjetoPersonaAPellido1", 33);
+Persona personaObj = new("ObjetoPersonaNombre1", "ObjetoPersonaAPellido1", 33);
+var personaObj2 = new Persona("ObjetoPersonaNombre1", "ObjetoPersonaAPellido1", 33);
+
+Console.WriteLine(personaObj.ObtenerNombreCompleto());
 
 personaObj.nombre = "Yun";
 personaObj.apellidos = "Tianming";
@@ -20,6 +21,13 @@ class Persona
     public string nombre = "";
     public string apellidos = "";
     public int edad;
+
+    public Persona(string nombre, string apellidos, int edad)
+    {
+        this.nombre = nombre;
+        this.apellidos = apellidos;
+        this.edad = edad;
+    }
 
     // Métodos de una clase, comportamientos o acciones de un objeto
     public string ObtenerNombreCompleto()
