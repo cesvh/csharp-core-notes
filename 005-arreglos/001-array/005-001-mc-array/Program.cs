@@ -1,7 +1,11 @@
-﻿string[] nombres = new string[5] {
-    "Liu", "Isaac", "", "", "Loujin"
+﻿string[] permisos = new string[] {
+    "ver",
+    "consultar",
+    "",
+    "editar",
+    "eliminar"
 };
 
-Console.WriteLine($"nombres[0]: {nombres[0]}");
-Console.WriteLine($"nombres[2]: {nombres[2]}");
-Console.WriteLine($"nombres[4]: {nombres[4]}");
+Console.WriteLine($"permisos[0]:{permisos[0]}");
+Console.WriteLine($"permisos[2]:{permisos[2]}");
+Console.WriteLine($"permisos[4]:{permisos[4]}");
