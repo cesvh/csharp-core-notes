@@ -4,5 +4,6 @@
   <Project Path="005-arreglos/001-array/005-001-mc-array/005-001-mc-array.csproj" Id="f57f0035-5934-4c7b-b22c-fd3651b5a452" />
   <Project Path="006-clases/001-clases/006-001-001-clases/006-001-001-clases.csproj" Id="1dafa2b5-1024-42bd-a03e-ec4aac215716" />
   <Project Path="006-clases/005-propiedades/006-005-mc-propiedades/006-005-mc-propiedades.csproj" Id="7b5d9223-e72a-43b9-b7be-9dd3d75cbdea" />
+  <Project Path="008-herencia/001-herencia/008-001-mc-herencia/008-001-mc-herencia.csproj" Id="1e349eaa-3b36-4cf5-8a7c-696eee9d0d60" />
   <Project Path="csharp/csharp.csproj" />
 </Solution>
