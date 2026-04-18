@@ -2,6 +2,7 @@
   <Project Path="001-basico/001-001-console.writeline/001-001-console.writeline.csproj" Id="df81f911-4258-465b-a07b-4b9da30be2ba" />
   <Project Path="001-basico/001-002-comentarios/001-002-comentarios.csproj" Id="89f2b5c5-d366-4e76-8cad-31290baf2653" />
   <Project Path="002-variables-tipos/001-variables/002-001-variables/002-001-variables.csproj" Id="f15bf961-4646-4922-b23f-2d10077fd7c8" />
+  <Project Path="003-flujo-de-control/005-while/003-005-while/003-005-while.csproj" Id="c776745d-5517-4b28-a671-3f236752cf4d" />
   <Project Path="004-funciones/001-functions/004-001-mc-funciones/004-001-mc-funciones.csproj" Id="0e892f90-d653-4c0d-b408-a2ca696d5ca8" />
   <Project Path="005-arreglos/001-array/005-001-mc-array/005-001-mc-array.csproj" Id="f57f0035-5934-4c7b-b22c-fd3651b5a452" />
   <Project Path="006-clases/001-clases/006-001-001-clases/006-001-001-clases.csproj" Id="1dafa2b5-1024-42bd-a03e-ec4aac215716" />
