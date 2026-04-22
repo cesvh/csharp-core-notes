@@ -1,0 +1,1 @@
+﻿Console.WriteLine("Tipos anonimos");
