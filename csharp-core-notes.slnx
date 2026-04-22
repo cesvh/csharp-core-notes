@@ -3,7 +3,6 @@
   <Project Path="001-basico/001-002-comentarios/001-002-comentarios.csproj" Id="89f2b5c5-d366-4e76-8cad-31290baf2653" />
   <Project Path="002-variables-tipos/001-variables/002-001-variables/002-001-variables.csproj" Id="f15bf961-4646-4922-b23f-2d10077fd7c8" />
   <Project Path="002-variables-tipos/006-raw-string/001-json/002-006-001-json/002-006-001-json.csproj" Id="2ba3d531-352e-4b18-937f-29fd3a894d9f" />
-  <Project Path="003-flujo-de-control/005-while/003-005-while/003-005-while.csproj" Id="c776745d-5517-4b28-a671-3f236752cf4d" />
   <Project Path="003-flujo-de-control/007-for/003-007-mc-for/003-007-mc-for.csproj" Id="d1e559bb-3be4-4926-b9fe-8472ac2d9205" />
   <Project Path="003-flujo-de-control/005-while/003-005-while/003-005-while.csproj" Id="c776745d-5517-4b28-a671-3f236752cf4d" />
   <Project Path="004-funciones/001-functions/004-001-mc-funciones/004-001-mc-funciones.csproj" Id="0e892f90-d653-4c0d-b408-a2ca696d5ca8" />
