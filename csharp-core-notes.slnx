@@ -2,11 +2,22 @@
   <Project Path="001-basico/001-001-console.writeline/001-001-console.writeline.csproj" Id="df81f911-4258-465b-a07b-4b9da30be2ba" />
   <Project Path="001-basico/001-002-comentarios/001-002-comentarios.csproj" Id="89f2b5c5-d366-4e76-8cad-31290baf2653" />
   <Project Path="002-variables-tipos/001-variables/002-001-variables/002-001-variables.csproj" Id="f15bf961-4646-4922-b23f-2d10077fd7c8" />
+  <Project Path="002-variables-tipos/006-raw-string/001-json/002-006-001-json/002-006-001-json.csproj" Id="2ba3d531-352e-4b18-937f-29fd3a894d9f" />
   <Project Path="003-flujo-de-control/005-while/003-005-while/003-005-while.csproj" Id="c776745d-5517-4b28-a671-3f236752cf4d" />
+  <Project Path="003-flujo-de-control/007-for/003-007-mc-for/003-007-mc-for.csproj" Id="d1e559bb-3be4-4926-b9fe-8472ac2d9205" />
   <Project Path="004-funciones/001-functions/004-001-mc-funciones/004-001-mc-funciones.csproj" Id="0e892f90-d653-4c0d-b408-a2ca696d5ca8" />
   <Project Path="005-arreglos/001-array/005-001-mc-array/005-001-mc-array.csproj" Id="f57f0035-5934-4c7b-b22c-fd3651b5a452" />
   <Project Path="006-clases/001-clases/006-001-001-clases/006-001-001-clases.csproj" Id="1dafa2b5-1024-42bd-a03e-ec4aac215716" />
   <Project Path="006-clases/005-propiedades/006-005-mc-propiedades/006-005-mc-propiedades.csproj" Id="7b5d9223-e72a-43b9-b7be-9dd3d75cbdea" />
+  <Project Path="007-atributos-estaticos/000-estaticos/007-000-estaticos/007-000-estaticos.csproj" Id="bd89a9b2-b424-4b66-a571-492b4ebba7ab" />
   <Project Path="008-herencia/001-herencia/008-001-mc-herencia/008-001-mc-herencia.csproj" Id="1e349eaa-3b36-4cf5-8a7c-696eee9d0d60" />
+  <Project Path="008-herencia/001-herencia/008-001-mc-sobrecarga/008-001-mc-sobrecarga.csproj" Id="bd06a27d-1269-481b-a2a7-23537022c98c" />
+  <Project Path="008-herencia/004-modificador-virtual/008-004-mc-sobreescritura/008-004-mc-sobreescritura.csproj" Id="d9918e53-a2cc-4819-babb-87bbfa84b7b3" />
+  <Project Path="008-herencia/009-tipos-anonimos/008-009-mc-tipos-anonimos/008-009-mc-tipos-anonimos.csproj" Id="ca0e32dd-53e1-46ad-9938-016244cbe24f" />
+  <Project Path="010-excepciones/001-try-catch/010-001-mc-try-catch/010-001-mc-try-catch.csproj" Id="4c63c296-4ff5-4948-bdea-626140d5b99f" />
+  <Project Path="016-tipos-avanzados/004-tuplas/016-004-mc-tuplas/016-004-mc-tuplas.csproj" Id="80611caf-ee3c-49ce-8f48-5734a7d47d3d" />
+  <Project Path="017-colecciones/001-listas/017-001-001-listas/017-001-001-listas.csproj" Id="e73e4582-6a84-49ff-b855-a0f454297513" />
+  <Project Path="017-colecciones/001-listas/017-001-002-listas-foreach/017-001-002-listas-foreach.csproj" Id="21f0fc3a-051e-4abc-abae-ac62dd21d0b8" />
+  <Project Path="017-colecciones/001-listas/017-001-003-mc-listas-metodos/017-001-003-mc-listas-metodos.csproj" Id="958af962-4981-4146-a98d-40e92ef8e6e4" />
   <Project Path="csharp/csharp.csproj" />
 </Solution>
