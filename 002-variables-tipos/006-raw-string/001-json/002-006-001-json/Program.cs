@@ -10,12 +10,12 @@ Persona objPersona = new Persona() {
 
 string jsonPersona = JsonSerializer.Serialize(objPersona);
 Console.WriteLine();
-Console.WriteLine("string");
+Console.WriteLine("string jsonPersona = JsonSerializer.Serialize(objPersona);");
 Console.WriteLine(jsonPersona);
 
 Persona? objPersonaJson = JsonSerializer.Deserialize<Persona>(jsonPersona);
 Console.WriteLine();
-Console.WriteLine("Persona");
+Console.WriteLine("Persona? objPersonaJson = JsonSerializer.Deserialize<Persona>(jsonPersona);");
 Console.WriteLine($"Nombre: {objPersonaJson?.Nombre}, Edad: {objPersonaJson?.Edad}");
 
 Persona[] arrayObjPersona = new Persona[] 
@@ -32,12 +32,12 @@ Persona[] arrayObjPersona = new Persona[]
 
 string stringArrayObjPersonas = JsonSerializer.Serialize(arrayObjPersona);
 Console.WriteLine();
-Console.WriteLine("stringArrayObjPersonas");
+Console.WriteLine("string stringArrayObjPersonas = JsonSerializer.Serialize(arrayObjPersona);");
 Console.WriteLine(stringArrayObjPersonas);
 
 Persona[]? jsonArrayObjPersona = JsonSerializer.Deserialize<Persona[]?>(stringArrayObjPersonas);
 Console.WriteLine();
-Console.WriteLine("jsonArrayObjPersona");
+Console.WriteLine("Persona[]? jsonArrayObjPersona = JsonSerializer.Deserialize<Persona[]?>(stringArrayObjPersonas);");
 Console.WriteLine($"Nombre: {jsonArrayObjPersona?[1].Nombre}, Edad: {jsonArrayObjPersona?[1].Edad}");
 
 class Persona { 
