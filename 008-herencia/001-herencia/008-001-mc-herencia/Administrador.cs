@@ -1,9 +1,13 @@
-﻿namespace _008_001_mc_herencia
+﻿// La herencia es un concepto fundamental en la programación orientada a objetos que permite crear una nueva clase (clase derivada o subclase) a partir de una clase existente (clase base o superclase). La clase derivada hereda los miembros (propiedades, métodos, etc.) de la clase base, lo que permite reutilizar código y establecer una relación jerárquica entre las clases.
+// Se usa los dos puntos (:) para indicar que una clase hereda de otra clase, seguido del nombre de la clase base.
+
+namespace _008_001_mc_herencia
 {
     internal class Administrador : Persona
     {
         private string _departamento;
 
+        // La sintaxis para llamar al constructor de la clase base desde el constructor de la clase derivada es utilizando la palabra clave base seguida de los argumentos que se deben pasar al constructor de la clase base.
         public Administrador(int anio, string nombre, string departamento) : base(anio, nombre)
         {
             _departamento = departamento;
