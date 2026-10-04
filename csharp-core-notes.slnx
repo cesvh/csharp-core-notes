@@ -19,5 +19,7 @@
   <Project Path="017-colecciones/001-listas/017-001-001-listas/017-001-001-listas.csproj" Id="e73e4582-6a84-49ff-b855-a0f454297513" />
   <Project Path="017-colecciones/001-listas/017-001-002-listas-foreach/017-001-002-listas-foreach.csproj" Id="21f0fc3a-051e-4abc-abae-ac62dd21d0b8" />
   <Project Path="017-colecciones/001-listas/017-001-003-mc-listas-metodos/017-001-003-mc-listas-metodos.csproj" Id="958af962-4981-4146-a98d-40e92ef8e6e4" />
+  <Project Path="100-001-002-estructura-console-1/100-001-002-estructura-console-1.csproj" Id="6015439e-eb0d-4efc-8966-5bd08cafe682" />
+  <Project Path="100-proyectos/001-Fundamentos/100-001-net/100-001-001-net.csproj" />
   <Project Path="csharp/csharp.csproj" />
 </Solution>
